@@ -470,7 +470,7 @@ GameObject:
   - component: {fileID: 597853746}
   - component: {fileID: 597853745}
   m_Layer: 0
-  m_Name: StaminaCanvas
+  m_Name: UI
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
