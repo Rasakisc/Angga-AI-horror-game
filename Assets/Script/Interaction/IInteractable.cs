@@ -1,0 +1,10 @@
+using UnityEngine;
+
+namespace Game.Interaction
+{
+    public interface IInteractable
+    {
+        string InteractPrompt { get; }
+        void Interact(GameObject interactor);
+    }
+}
